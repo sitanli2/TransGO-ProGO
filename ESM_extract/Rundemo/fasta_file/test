@@ -1,0 +1,132 @@
+Cellular Component	apical part of cellSource:Ensembl
+Cellular Component	axonSource:UniProtKB
+Cellular Component	cell surfaceSource:UniProtKB2 Publications
+Cellular Component	cell-cell junctionSource:Ensembl
+Cellular Component	ciliary rootletSource:Ensembl
+Cellular Component	clathrin-coated pitSource:UniProtKB-SubCell
+Cellular Component	COPII-coated ER to Golgi transport vesicleSource:Ensembl
+Cellular Component	cytoplasmSource:UniProtKB1 Publication
+Cellular Component	cytosolSource:Reactome
+Cellular Component	dendritic shaftSource:MGI1 Publication
+Cellular Component	dendritic spineSource:MGI1 Publication
+Cellular Component	early endosomeSource:UniProtKB1 Publication
+Cellular Component	endoplasmic reticulumSource:UniProtKB1 Publication
+Cellular Component	endoplasmic reticulum lumenSource:Reactome
+Cellular Component	endosomeSource:UniProtKB1 Publication
+Cellular Component	endosome lumenSource:Reactome
+Cellular Component	extracellular exosomeSource:UniProtKB1 Publication
+Cellular Component	extracellular regionSource:Reactome
+Cellular Component	extracellular spaceSource:ARUK-UCL1 Publication
+Cellular Component	Golgi apparatusSource:UniProtKB2 Publications
+Cellular Component	Golgi lumenSource:Reactome
+Cellular Component	Golgi-associated vesicleSource:UniProtKB
+Cellular Component	growth coneSource:UniProtKB-SubCell
+Cellular Component	membraneSource:UniProtKB
+Cellular Component	membrane raftSource:ParkinsonsUK-UCL1 Publication
+Cellular Component	neuromuscular junctionSource:Ensembl
+Cellular Component	nuclear envelope lumenSource:Alzheimers_University_of_Toronto1 Publication
+Cellular Component	perikaryonSource:UniProtKB-SubCell
+Cellular Component	perinuclear region of cytoplasmSource:UniProtKB1 Publication
+Cellular Component	plasma membraneSource:UniProtKB3 Publications
+Cellular Component	platelet alpha granule lumenSource:Reactome
+Cellular Component	presynaptic active zoneSource:Ensembl
+Cellular Component	receptor complexSource:MGI1 Publication
+Cellular Component	recycling endosomeSource:UniProtKB
+Cellular Component	smooth endoplasmic reticulumSource:GOC
+Cellular Component	spindle midzoneSource:Ensembl
+Cellular Component	synapseSource:MGI1 Publication
+Cellular Component	synaptic vesicleSource:Ensembl
+Cellular Component	trans-Golgi network membraneSource:Reactome
+Molecular Function	DNA bindingSource:UniProtKB
+Molecular Function	enzyme bindingSource:ARUK-UCL2 Publications
+Molecular Function	heparin bindingSource:UniProtKB-KW
+Molecular Function	identical protein bindingSource:IntAct21 Publications
+Molecular Function	PTB domain bindingSource:BHF-UCL1 Publication
+Molecular Function	receptor ligand activitySource:UniProt1 Publication
+Molecular Function	RNA polymerase II cis-regulatory region sequence-specific DNA bindingSource:Ensembl
+Molecular Function	serine-type endopeptidase inhibitor activitySource:UniProtKB1 Publication
+Molecular Function	signaling receptor activator activitySource:GO_Central1 Publication
+Molecular Function	signaling receptor bindingSource:BHF-UCL1 Publication
+Molecular Function	transition metal ion bindingSource:InterPro
+Biological Process	adult locomotory behaviorSource:UniProtKB
+Biological Process	amyloid fibril formationSource:ParkinsonsUK-UCL1 Publication
+Biological Process	astrocyte activationSource:ARUK-UCL2 Publications
+Biological Process	astrocyte activation involved in immune responseSource:ARUK-UCL1 Publication
+Biological Process	axo-dendritic transportSource:UniProtKB
+Biological Process	axon midline choice point recognitionSource:UniProtKB
+Biological Process	axonogenesisSource:UniProtKB
+Biological Process	cell adhesionSource:UniProtKB-KW
+Biological Process	cellular response to amyloid-betaSource:ARUK-UCL1 Publication
+Biological Process	central nervous system developmentSource:GO_Central1 Publication
+Biological Process	cholesterol metabolic processSource:Ensembl
+Biological Process	cognitionSource:UniProtKB
+Biological Process	collateral sprouting in absence of injurySource:UniProtKB
+Biological Process	cytoplasmic polyadenylationSource:Ensembl
+Biological Process	dendrite developmentSource:UniProtKB
+Biological Process	endocytosisSource:UniProtKB
+Biological Process	extracellular matrix organizationSource:UniProtKB
+Biological Process	forebrain developmentSource:Ensembl
+Biological Process	G2/M transition of mitotic cell cycleSource:Ensembl
+Biological Process	intracellular copper ion homeostasisSource:UniProtKB
+Biological Process	ionotropic glutamate receptor signaling pathwaySource:UniProtKB
+Biological Process	learningSource:ARUK-UCL1 Publication
+Biological Process	learning or memorySource:ARUK-UCL2 Publications
+Biological Process	locomotory behaviorSource:UniProtKB
+Biological Process	mating behaviorSource:UniProtKB
+Biological Process	microglia developmentSource:ARUK-UCL1 Publication
+Biological Process	microglial cell activationSource:ARUK-UCL2 Publications
+Biological Process	modulation of excitatory postsynaptic potentialSource:ARUK-UCL1 Publication
+Biological Process	mRNA polyadenylationSource:UniProtKB
+Biological Process	negative regulation of cell population proliferationSource:UniProtKB1 Publication
+Biological Process	negative regulation of gene expressionSource:ARUK-UCL4 Publications
+Biological Process	negative regulation of long-term synaptic potentiationSource:ARUK-UCL2 Publications
+Biological Process	negative regulation of neuron differentiationSource:Ensembl
+Biological Process	neuromuscular process controlling balanceSource:Ensembl
+Biological Process	neuron apoptotic processSource:UniProtKB1 Publication
+Biological Process	neuron cellular homeostasisSource:Ensembl
+Biological Process	neuron projection developmentSource:UniProtKB
+Biological Process	neuron projection maintenanceSource:ARUK-UCL1 Publication
+Biological Process	neuron remodelingSource:UniProtKB
+Biological Process	Notch signaling pathwaySource:UniProtKB-KW
+Biological Process	positive regulation of amyloid fibril formationSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of calcium-mediated signalingSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of chemokine productionSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of DNA-binding transcription factor activitySource:ARUK-UCL1 Publication
+Biological Process	positive regulation of ERK1 and ERK2 cascadeSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of G2/M transition of mitotic cell cycleSource:Ensembl
+Biological Process	positive regulation of gene expressionSource:ARUK-UCL2 Publications
+Biological Process	positive regulation of glycolytic processSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of inflammatory responseSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of interleukin-1 beta productionSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of interleukin-6 productionSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of JNK cascadeSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of long-term synaptic potentiationSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of mitotic cell cycleSource:UniProtKB
+Biological Process	positive regulation of non-canonical NF-kappaB signal transductionSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of peptidyl-serine phosphorylationSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of peptidyl-threonine phosphorylationSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of protein bindingSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of protein metabolic processSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of protein phosphorylationSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of T cell migrationSource:ARUK-UCL1 Publication
+Biological Process	positive regulation of transcription by RNA polymerase IISource:ARUK-UCL1 Publication
+Biological Process	positive regulation of tumor necrosis factor productionSource:ARUK-UCL3 Publications
+Biological Process	protein phosphorylationSource:UniProtKB
+Biological Process	regulation of epidermal growth factor-activated receptor activitySource:UniProtKB
+Biological Process	regulation of gene expressionSource:ARUK-UCL1 Publication
+Biological Process	regulation of long-term neuronal synaptic plasticitySource:ARUK-UCL1 Publication
+Biological Process	regulation of multicellular organism growthSource:UniProtKB
+Biological Process	regulation of NMDA receptor activitySource:ARUK-UCL1 Publication
+Biological Process	regulation of peptidyl-tyrosine phosphorylationSource:ARUK-UCL1 Publication
+Biological Process	regulation of presynapse assemblySource:SynGO1 Publication
+Biological Process	regulation of spontaneous synaptic transmissionSource:ARUK-UCL1 Publication
+Biological Process	regulation of synapse structure or activitySource:UniProtKB
+Biological Process	regulation of translationSource:UniProtKB
+Biological Process	regulation of Wnt signaling pathwaySource:ARUK-UCL1 Publication
+Biological Process	response to interleukin-1Source:ARUK-UCL
+Biological Process	response to oxidative stressSource:Ensembl
+Biological Process	smooth endoplasmic reticulum calcium ion homeostasisSource:Ensembl
+Biological Process	suckling behaviorSource:Ensembl
+Biological Process	synapse organizationSource:ARUK-UCL2 Publications
+Biological Process	synaptic assembly at neuromuscular junctionSource:Ensembl
+Biological Process	visual learningSource:UniProtKB
